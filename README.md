@@ -1,6 +1,6 @@
 - 👋 Olá , eu sou Sthefany
-- 👀 Estou interessada em DevOps
-- 🌱 Atualmente estou estudando Kubernetes
+- 👀 Estou interessada em DevOps/SRE
+- 🌱 Atualmente estou estudando Git e GitHub
 - 📫 me adicione no Linkedin Sthefany Ribeiro
 
 <!---
