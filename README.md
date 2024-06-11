@@ -1,5 +1,5 @@
 - 👋 Olá , eu sou Sthefany
-- 👀 Estou interessada em DevOps/SRE
+- 👀 Estou interessada em DevOps/ Backend Developer
 - 📫 me adicione no Linkedin Sthefany Ribeiro
 
 <!---
